@@ -1,0 +1,22 @@
+#+TITLE: Git Hints
+#+AUTHOR: Joerg Erdmenger
+#+DATE:   2016-11-15
+
+* Git Commands
+
+- git clone <repository>
+  clone an existing repository into the current local directory
+- git init
+  create a new Git-Repository or initialize an existing
+- git add <file>
+  make the file known to git
+- git commit
+  commit changes to the repositry
+- git push
+  push changes to the remote repository (e.g. github)
+
+- git fetch
+  fetch newest versions from repositry
+
+* Howto
+
